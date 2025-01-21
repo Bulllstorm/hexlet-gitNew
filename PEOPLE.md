@@ -1,1 +1,1 @@
-Hello
+Haskell Curry
